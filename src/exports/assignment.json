@@ -38,6 +38,28 @@
    "task_id": 14,
    "job_id": 14,
    "task_name": "faces-DoanThiAnhHau"
+  },
+  "persons-extra": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "persons-extra-DoanThiAnhHau"
+  },
+  "faces-extra": {
+   "task_id": 16,
+   "job_id": 16,
+   "task_name": "faces-extra-DoanThiAnhHau"
   }
- }
+ },
+ "persons_extra": [
+  "000000373426.jpg",
+  "000000465508.jpg",
+  "000000565600.jpg"
+ ],
+ "faces_extra": [
+  "face_102517.jpg",
+  "face_280788.jpg",
+  "face_344941.jpg",
+  "face_379585.jpg",
+  "face_507166.jpg"
+ ]
 }
