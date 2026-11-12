@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603282",
+ "ten": "DoanThiAnhHau",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "anhhau",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000201702.jpg",
+  "000000390585.jpg",
+  "000000431893.jpg",
+  "000000463932.jpg",
+  "000000508269.jpg",
+  "000000030960.jpg",
+  "000000078170.jpg",
+  "000000122199.jpg",
+  "000000210604.jpg",
+  "000000480582.jpg",
+  "000000438099.jpg",
+  "000000522889.jpg"
+ ],
+ "faces": [
+  "face_125051.jpg",
+  "face_141135.jpg",
+  "face_559185.jpg",
+  "face_505385.jpg",
+  "face_53580.jpg",
+  "face_342273.jpg",
+  "face_324513.jpg",
+  "face_279764.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "persons-DoanThiAnhHau"
+  },
+  "faces": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "faces-DoanThiAnhHau"
+  }
+ }
+}
